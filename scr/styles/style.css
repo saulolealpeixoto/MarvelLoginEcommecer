@@ -20,17 +20,16 @@ header {
 }
 .logo a {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 .logo a img {
-  margin: 10px;
+  margin: 20px;
   width: 30%;
   height: 70%;
 }
 
 .navHeader {
-  width: 50%;
+  width: 70%;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -166,5 +165,4 @@ footer {
 }
 footer div img {
   width: 400px;
-  margin-right: 1000px;
 }/*# sourceMappingURL=style.css.map */
